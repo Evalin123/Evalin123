@@ -1,4 +1,7 @@
 ### Hi I'm Eva 👋
+Familiar with Computer Programing
+* Node
+* Javascript, HTML, CSS, web front-end technique
 
 <!--
 **Evalin123/Evalin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
