@@ -4,25 +4,34 @@
 ## Skills & Certificates
 * JavaScript, HTML, CSS
 * Vue, React, Express
-* PHP, Python,Node
+* PHP, Node
 * MySQL, MongoDB
 ## Portfolio ＆ Links
 https://github.com/Evalin123
 
-Express-api: Using node.js to set up server in MongoDB, and write some API about user register, login, etc.
-
-vue-client: Using Vue, HTML, CSS to write a Website and connecting with server to let users use.
 ## Professional Experience
+
+### Front-end Developer
+#### Connact 2021-12 ~ 2022-06
+
+1. Created background dashboard with d3js.
+1. Daily maintenance of code, debugging issues and solving clients’ problems.
+1. Using NextJs to develop e-commerce platform.
+1. Ability to create Reusable Components that can be utilized throughout the Application.
+1. Implement Scrum processes, including sprint planning, daily scrum, sprint review and sprint retrospectives.
+1. Set up Google Tag Manager and Google Analytics for tracking data.
+1. Create website CSS structure using SASS combined BEM Methodology.
+
 ### Back-end Developer
-#### 星爵科技　2019-09 ~ 2019-12
-1. Focus on develop slot game, using PHP and MySQL on Linux.
-1. Responsible for slot game API and back office development.
-1. Using Postman to verify API.
-1. Discuss issues, features, plans, and procedures with team members.
-1. Report work progress to all team members.
+#### EcomPlus 2020-11 ~ 2021-11
+
+1. Responsible for developing payment and billing.
+1. Designing and building an api checking mechanism.
+1. Generating dashboard reports using Mongo aggregate functions to analyze client usage situation.
+1. Created api and communicated with clients to identify their needs and requirements.
 
 ### QA Engineer
-#### 藝九科技　2020-03 ~ 
+#### 藝九科技　2020-03 ~ 2020-09
 
 1. Using Jira to manage issues and tasks.
 1. Identify potential problems and improvements of products.
@@ -34,6 +43,15 @@ vue-client: Using Vue, HTML, CSS to write a Website and connecting with server t
 1. Design test case and generate report using TestRail.
 1. Discuss root cause with developers to find the best solution.
 1. Responsible for new employee orientation of entire company.
+
+### Back-end Developer
+#### 星爵科技　2019-09 ~ 2019-12
+1. Focus on develop slot game, using PHP and MySQL on Linux.
+1. Responsible for slot game API and back office development.
+1. Using Postman to verify API.
+1. Discuss issues, features, plans, and procedures with team members.
+1. Report work progress to all team members.
+
 ## Education
 Tatung University　Biotechnology　2015-09 ~ 2019-06
 ## Language Skills
