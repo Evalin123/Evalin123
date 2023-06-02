@@ -3,6 +3,7 @@
 * Email：evalin8@gmail.com
 
 ![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evalin123&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evalin123)](https://github.com/Evalin123/github-readme-stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Evaaaa?theme=wtf)
 
