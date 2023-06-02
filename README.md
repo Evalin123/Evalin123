@@ -14,6 +14,8 @@
 
 ## Portfolio ＆ Links
 https://github.com/Evalin123
+https://eattt.netlify.app/
+https://chat-room-client.onrender.com/
 
 ## Professional Experience
 
