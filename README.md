@@ -1,8 +1,27 @@
-# 林念誼　Eva Lin
-![](https://i.imgur.com/egyeyK2.png)
-* Email：evalin8@gmail.com
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>林念誼 Eva Lin</b>
+        </samp>
+</h3>
 
-![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evalin123&show_icons=true&bg_color=00000000)
+
+<p align="center"> 
+  <samp>
+    <br>
+    I am a front-end developer from <b>Taiwan</b>
+    <br>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/nien-yi-lin-9baa90214/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+</p>
+
+![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evalin123&show_icons=true&bg_color=00000000&theme=tokyonight)
 <a href="https://github.com/Evalin123"><img alt="Eva's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Evalin123&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Evaaaa?theme=wtf)
