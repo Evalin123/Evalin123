@@ -6,6 +6,8 @@
 * Vue, React, Express
 * PHP, Node
 * MySQL, MongoDB
+
+![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evalin123&show_icons=true&theme=transparent)
 ## Portfolio ＆ Links
 https://github.com/Evalin123
 
