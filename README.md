@@ -1,13 +1,15 @@
 # 林念誼　Eva Lin
 ![](https://i.imgur.com/egyeyK2.png)
 * Email：evalin8@gmail.com
+
+![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evalin123&show_icons=true&theme=transparent)
+
 ## Skills & Certificates
 * JavaScript, HTML, CSS
 * Vue, React, Express
 * PHP, Node
 * MySQL, MongoDB
 
-![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evalin123&show_icons=true&theme=transparent)
 ## Portfolio ＆ Links
 https://github.com/Evalin123
 
