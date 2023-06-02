@@ -16,6 +16,17 @@ https://github.com/Evalin123
 ## Professional Experience
 
 ### Front-end Developer
+#### Funpodium 2022-07 ~ now
+
+1. Built PaaS platform with Typescript, Next.js, AntD, and Tailwind CSS.
+1. Independently responsible for API contract design
+1. Implemented Zod library for type-safe APIs.
+1. Managed application state with Zustand
+1. Utilized React-Query for state management, synchronization, caching, and error handling.
+1. Wrote Jest and React-Testing-Library unit tests for code quality and stability.
+1. Code reviews and provided feedback to other developers.
+
+### Front-end Developer
 #### Connact 2021-12 ~ 2022-06
 
 1. Created background dashboard with d3js.
