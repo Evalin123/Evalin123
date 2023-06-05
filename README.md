@@ -21,8 +21,8 @@
  </a>
 </p>
 
-![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evalin123&show_icons=true&bg_color=0D1117&theme=radical)
-<a href="https://github.com/Evalin123"><img alt="Eva's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Evalin123&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evalin123&show_icons=true&bg_color=0D1117&theme=radical&card_width=49.5%)
+<a href="https://github.com/Evalin123"><img alt="Eva's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Evalin123&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" border_radius='4.5'/></a>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Evaaaa?theme=wtf)
 
