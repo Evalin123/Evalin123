@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/nien-yi-lin-9baa90214/" target="_blank">
+ <a href="https://www.linkedin.com/in/eva-lin-9baa90214/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 </p>
