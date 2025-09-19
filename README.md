@@ -59,8 +59,17 @@ https://chat-room-client.onrender.com/
 
 ## Professional Experience
 
+### Full-stack Developer
+#### Genix 2025-06 ~ now
+
+1. Refined features and priorities from an initial POC; structured clear specs and user flows to align engineering, design, and QA.
+2. Owned communication with frontend outsourcing team; aligned on tech stack (TypeScript, Next.js, pnpm) and clarified design deliverables.
+3. Developed a fullstack Custom Captive Portal with Next.js App Router, implementing both UI and API routes with form handling, data fetching, and backend integration.
+4. Worked with external designers to complete Figma flows and define consistent UI behaviors within dev constraints
+5. Reviewed outsourced Dashboard code and UI; ensured consistency in quality, interaction, and visual implementation
+
 ### Front-end Developer
-#### Funpodium 2022-07 ~ now
+#### Funpodium 2022-07 ~ 2025-05
 
 1. Built PaaS platform with Typescript, Next.js, AntD, and Tailwind CSS.
 1. Independently responsible for API contract design
