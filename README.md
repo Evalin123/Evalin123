@@ -51,22 +51,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Portfolio ＆ Links
-https://github.com/Evalin123
-
-https://eattt.netlify.app/
-
-https://chat-room-client.onrender.com/
+- Personal Website (https://eva-lin.vercel.app/)
+- GitHub (https://github.com/Evalin123)
 
 ## Professional Experience
 
 ### Full-stack Developer
 #### Genix 2025-06 ~ now
 
-1. Refined features and priorities from an initial POC; structured clear specs and user flows to align engineering, design, and QA.
-2. Owned communication with frontend outsourcing team; aligned on tech stack (TypeScript, Next.js, pnpm) and clarified design deliverables.
-3. Developed a fullstack Custom Captive Portal with Next.js App Router, implementing both UI and API routes with form handling, data fetching, and backend integration.
-4. Worked with external designers to complete Figma flows and define consistent UI behaviors within dev constraints
-5. Reviewed outsourced Dashboard code and UI; ensured consistency in quality, interaction, and visual implementation
+1. Defined and prioritized features from initial POCs, translating product ideas into actionable specifications and user flows, coordinating across engineering, design, and QA.
+2. Established front-end architecture, technical standards, and code review processes, improving code consistency and maintainability.
+3. Built and maintained the Custom Captive Portal front-end system, driving scalable component design and data-fetching strategies to support feature growth.
+4. Designed and integrated the Device Detective Report API (using FastAPI + PostgreSQL) to collect user feedback and support front-end requirements.
+5. Coordinated outsourced front-end and design teams, reviewing Figma workflows and UI to ensure alignment with front-end requirements and product experience.
+6. Implemented CI/CD pipelines to automate front-end builds, testing, and deployment, increasing release efficiency and simplifying multi-developer handoffs.
 
 ### Front-end Developer
 #### Funpodium 2022-07 ~ 2025-05
